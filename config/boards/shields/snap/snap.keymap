@@ -10,6 +10,8 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/mouse.h>
+#include <dt-bindings/zmk/outputs.h>
+
 
 / {
 	sensors {
